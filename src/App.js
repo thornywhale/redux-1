@@ -2,7 +2,7 @@ import { BrowserRouter, Route, Routes } from "react-router-dom";
 
 import HomePage from "./pages/HomePage";
 import ToDoPage from "./pages/ToDoPage";
-import NavMenu from "./components/Counter/NavMenu";
+import NavMenu from "./components/NavMenu";
 
 const App = () => {
   return (
